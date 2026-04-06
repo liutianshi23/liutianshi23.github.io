@@ -5,7 +5,7 @@ main:
     conference: xxx In submission, 2026.
     pdf:
 #    project: https://lecar-lab.github.io/BFM-Zero/
-#    code: https://github.com/LeCAR-Lab/BFM-Zero
+    video: ./assets/img/SmartFlex-for-preview.mp4
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
 #    notes: Oral Presentation
@@ -23,13 +23,13 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/pd-for-preview.png
 
-  - title: "Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References"
+  - title: "（3）压阻-摩擦电双模态柔性假肢内衬套及其界面压力监测研究"
     authors: <strong>Yitang Li</strong>*, Mingxian Lin*, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi (Equal Contribution)
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+#    conference_short: CVPR
+    conference: 清华大学机械工程系智能与生物机械实验室  线下实习项目
     pdf: http://arxiv.org/abs/2503.07481
-    project: https://liyitang22.github.io/phys-reach-grasp/
-    code: https://github.com/liyitang22/phys-reach-grasp
+    video: ./assets/img/prosthesis/video2.mp4
+#    code: https://github.com/liyitang22/phys-reach-grasp
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
