@@ -11,17 +11,17 @@ main:
     notes: Oral Presentation
     image: ./assets/img/SmartFlex-for-preview.png
     
-  - title: "Hold My Beer🍻: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control"
-    authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi
-    conference_short: CoRL
-    conference: Conference on Robot Learning <strong>(CoRL)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2505.24198
+  - title: "（2）时空振动触觉智能电子皮肤实现帕金森病个性化步态康复"
+    authors: T.Cheng#, Y.Kong#, K.Wu#, Z.Liang#, B.Yang, J.Li, <strong>T.Liu（刘天适）</strong>, C.Chen, H.Yang, B.Pan, J.Cheng*（程嘉）, F.Mo*（莫富灏）
+    conference_short: Nat. Commun.
+    conference: Nature Communications, 2026.
+    pdf: https://assets-eu.researchsquare.com/files/rs-8883462/v1_covered_6cd0b26d-58a3-4bbd-be15-2abf82f41518.pdf?c=1771474888
     project: https://lecar-lab.github.io/SoFTA/
     code: https://github.com/LeCAR-Lab/SoFTA
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/softa.png
+    image: ./assets/img/pd-for-preview.png
 
   - title: "Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References"
     authors: <strong>Yitang Li</strong>*, Mingxian Lin*, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi (Equal Contribution)
