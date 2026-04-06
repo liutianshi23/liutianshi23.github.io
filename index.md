@@ -14,5 +14,5 @@ layout: homepage
 **致力方向： 智能传感、可穿戴设备、柔性电子** 
 
 {% include_relative _includes/publications.md %}
-{% include_relative _includes/selected_awards.md %}
 {% include_relative _includes/press.md %}
+{% include_relative _includes/selected_awards.md %}
