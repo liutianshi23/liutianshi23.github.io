@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 我目前是湖南大学机械院的大三学生，预计2027年毕业。在此之前，我于2023年毕业于长沙市长郡中学。 
 
-学业上，我专业排名第一 <span style="color:darkred"><strong>(1/70)</strong></span>。英语<span style="color:darkred"><strong>CET-4 644</strong></span>分、<span style="color:darkred"><strong>CET-6 610</strong></span>分。连续两年获得一等学业奖学金、科研创新奖学金、社会奖学金及校级优秀学生。
+学业上，我专业排名第一 **<span class="text-darkred">(1/70)</span>**。英语**<span class="text-darkred">CET-4 644</span>**分、**<span class="text-darkred">CET-6 610</span>**分。连续两年获得一等学业奖学金、科研创新奖学金、社会奖学金及校级优秀学生。
 
 我在[莫富灏](https://grzy.hnu.edu.cn/site/index/mofuhao)教授的指导下开始学习与研究，聚焦智能传感与可穿戴设备。
 
@@ -13,12 +13,6 @@ layout: homepage
 
 **致力方向： 智能传感、可穿戴设备、柔性电子** 
 
-
-
-
-
 {% include_relative _includes/publications.md %}
-
 {% include_relative _includes/selected_awards.md %}
-
 {% include_relative _includes/press.md %}
