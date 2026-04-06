@@ -46,18 +46,9 @@
         <h1 id="name"></h1>
         
         <script>
-          const names = ["李忆唐", "Yitang Li"];
+          // 固定显示姓名：刘天适
           const nameElement = document.getElementById("name");
-          let index = 0;
-        
-          // 初始化显示
-          nameElement.textContent = names[index];
-        
-          // 每 5 秒切换一次
-          setInterval(function() {
-            index = (index + 1) % names.length;  // 切换索引，0 和 1 之间循环
-            nameElement.textContent = names[index];  // 更新显示的名字
-          }, 5000);  // 5000 毫秒 = 5 秒
+          nameElement.textContent = "刘天适";
         </script>
 
         {% if site.position %}
