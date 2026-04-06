@@ -1,48 +1,50 @@
 main:
   - title: "（1）面向现实场景连续监测与病理早期筛查的可穿戴步态动力学重建"
     authors: <strong>T.Liu#（刘天适）</strong>*, T.Cheng#, K.Wu, X.Chen, H.Liu, J.Cheng*（程嘉）, X.Qu*（曲学铖）, F.Mo*（莫富灏）
-#    conference_short: In submission
     conference: xxx In submission, 2026.
+    image: ./assets/img/SmartFlex/SmartFlex-for-preview.png
     pdf:
-#    project: https://lecar-lab.github.io/BFM-Zero/
-    video: ./assets/img/SmartFlex-for-preview.mp4
+    video:
+    #conference_short: In submission
+    #project: https://lecar-lab.github.io/BFM-Zero/
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
-#    notes: Oral Presentation
-    image: ./assets/img/SmartFlex-for-preview.png
+    #notes: Oral Presentation
+
     
   - title: "（2）时空振动触觉智能电子皮肤实现帕金森病个性化步态康复"
     authors: T.Cheng#, Y.Kong#, K.Wu#, Z.Liang#, B.Yang, J.Li, <strong>T.Liu（刘天适）</strong>, C.Chen, H.Yang, B.Pan, J.Cheng*（程嘉）, F.Mo*（莫富灏）
-#    conference_short: Nat. Commun.
-    conference: Nature Communications, 2026.
+    conference: Nature Communications, 2026. 已返修
+    image: ./assets/img/pd/pd-for-preview.png
     pdf: https://assets-eu.researchsquare.com/files/rs-8883462/v1_covered_6cd0b26d-58a3-4bbd-be15-2abf82f41518.pdf?c=1771474888
-#    project: https://lecar-lab.github.io/SoFTA/
-#    code: https://github.com/LeCAR-Lab/SoFTA
+    video: ./assets/img/pd/pd-video.mp4
+
+    #conference_short: Nat. Commun.
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/pd-for-preview.png
+
 
   - title: "（3）压阻-摩擦电双模态柔性假肢内衬套及其界面压力监测研究"
-    authors: <strong>Yitang Li</strong>*, Mingxian Lin*, Zhuo Lin, Yipeng Deng, Yue Cao, Li Yi (Equal Contribution)
-#    conference_short: CVPR
+    authors: T.Cheng#, X.Chen#, <strong>T.Liu#（刘天适）</strong>*, X.Qu*（曲学铖）, J.Cheng*（程嘉）.
     conference: 清华大学机械工程系智能与生物机械实验室  线下实习项目
-    pdf: http://arxiv.org/abs/2503.07481
+    image: ./assets/img/prosthesis/prosthesis-for-preview.jpg
+    pdf:
     video: ./assets/img/prosthesis/video2.mp4
-#    code: https://github.com/liyitang22/phys-reach-grasp
+    #conference_short: CVPR
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/prosthesis/prosthesis-for-preview.jpg
 
-  - title: "HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos"
-    authors: Haoyang Weng, <strong>Yitang Li</strong>, Nikhil Sobanbabu, Zihan Wang, Zhengyi Luo, Tairan He, Deva Ramanan, Guanya Shi
-    conference_short: In submission
-    # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2509.16757
-    code: https://github.com/LeCAR-Lab/HDMI?tab=readme-ov-file
-    project: https://hdmi-humanoid.github.io/#/
-    image: ./assets/img/hdmi.png
+
+  - title: "（4）数智化耦合人体运动捕捉与骨肌动力学解算平台设计"
+    authors: T.Cheng, M.Jiang, L.Zhao, T.Liu, Y.Zhang, F.Mo*
+    conference: AUA Postgraduate Academic Forum <strong>(AUA-PAF)</strong>, 2025.
+    image: ./assets/img/digitalhuman/digitalhuman-for-preview.jpg
+    pdf: ./assets/img/digitalhuman/digitalhuman-pdf.pdf
+
+
+    #conference_short: In submission
     # notes: Early Accept
     
 
