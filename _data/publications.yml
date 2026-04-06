@@ -33,7 +33,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemo/nics/
     # notes: Oral Presentation
-    image: ./assets/img/walk.png
+    image: ./assets/img/prosthesis/prosthesis-for-preview.png
 
   - title: "HDMI: Learning Interactive Humanoid Whole-Body Control from Human Videos"
     authors: Haoyang Weng, <strong>Yitang Li</strong>, Nikhil Sobanbabu, Zihan Wang, Zhengyi Luo, Tairan He, Deva Ramanan, Guanya Shi
